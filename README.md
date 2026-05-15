@@ -58,9 +58,9 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🏨 [Hotel Booking System](https://github.com/kishan8105/hotel-booking) | Responsive booking app with real-time availability & email confirmations | Java, HTML, CSS |
-| 🧠 [Dementia Detection](https://github.com/kishan8105/dementia-detection) | Hybrid ML model using CNNs on MRI scans & genetic feature selection | Python, CNN, sklearn |
 | 💼 [Portfolio Website](https://kishanraj.me) | Full-stack personal portfolio with dynamic content & contact form | React, Node.js, MongoDB |
+| 🏨 [Saloon Website](https://thehairhacker.com/) | Responsive booking app with real-time availability & email confirmations | Java, HTML, CSS |
+| 🧠 [Dementia Detection](https://github.com/kishan8105/dementia-detection) | Hybrid ML model using CNNs on MRI scans & genetic feature selection | Python, CNN, sklearn |
 | ⚖️ [BMI Calculator](https://github.com/kishan8105/bmi-calculator) | Interactive BMI calculator with health categories & visual feedback | HTML, CSS, JavaScript |
 
 ---
