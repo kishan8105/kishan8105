@@ -86,7 +86,7 @@
 
 <!-- Snake animation (set up GitHub Action — see instructions) -->
 <div align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/kishan8105/kishan8105/output/dist/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
