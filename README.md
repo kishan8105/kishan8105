@@ -12,8 +12,8 @@
 ## 🧑‍💻 About Me
 
 - 🎓 MCA Graduate from **KIIT University** (CGPA: 7.49)
-- 💡 Passionate about **Full-Stack Web Dev** & **Machine Learning**
-- 🌱 Currently exploring **Deep Learning** and **Cloud Deployments**
+- 💡 Passionate about **Full-Stack Web Devlopment** & **SQL Developer**
+- 🌱 Currently exploring **App Building** and **Project Deployment**
 - 🔭 Working on my portfolio: **[kishanraj.me](https://kishanraj.me)**
 - 📫 Reach me: **kishan8105@gmail.com**
 - 📍 Based in **Patna, Bihar, India**
@@ -26,14 +26,13 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Databases**
@@ -46,12 +45,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" width="70%" />
-
+  
+<img src="https://github-readme-stats.vercel.app/api?username=kishan8105&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan8105&layout=compact&theme=github_dark&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishan8105&theme=github-dark-blue&hide_border=true" width="70%" />
 </div>
 
 ---
