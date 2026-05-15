@@ -86,9 +86,9 @@
 ---
 
 <!-- Snake animation -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/kishan8105/kishan8105/output/dist/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+</div> -->
 
 ---
 
