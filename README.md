@@ -118,9 +118,19 @@ me.say_hi()
 <!-- PROJECT CARDS -->
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=kishan8105&repo=my-portfolio&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/kishan8105/my-portfolio)
+<!-- PROJECT CARDS -->
+<div align="center">
+
+<!-- PROJECT CARDS -->
+<div align="center">
+
+[![Portfolio](https://github-readme-stats.up.railway.app/api/pin/?username=kishan8105&repo=my-portfolio&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/kishan8105/my-portfolio)
 &nbsp;
-[![Dementia Detection](https://github-readme-stats.vercel.app/api/pin/?username=kishan8105&repo=Dementia-Detection&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/kishan8105/Dementia-Detection)
+[![Dementia Detection](https://github-readme-stats.up.railway.app/api/pin/?username=kishan8105&repo=Dementia-Detection&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/kishan8105/Dementia-Detection)
+
+</div>
+
+</div>
 
 </div>
 
