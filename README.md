@@ -114,24 +114,49 @@ me.say_hi()
 </div>
 
 <br/>
-
+<br/>
 <!-- PROJECT CARDS -->
 <div align="center">
-
-<!-- PROJECT CARDS -->
-<div align="center">
-
-<!-- PROJECT CARDS -->
-<div align="center">
-
-| 💼 my-portfolio | 🧠 Dementia-Detection |
-|---|---|
-| [![Readme Card](https://github-readme-stats.up.railway.app/api/pin/?username=kishan8105&repo=my-portfolio&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/kishan8105/my-portfolio) | [![Readme Card](https://github-readme-stats.up.railway.app/api/pin/?username=kishan8105&repo=Dementia-Detection&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/kishan8105/Dementia-Detection) |
-
-</div>
-
-</div>
-
+<a href="https://github.com/kishan8105/my-portfolio">
+  <img src="https://img.shields.io/badge/💼_my--portfolio-View_on_GitHub-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://github.com/kishan8105/Dementia-Detection">
+  <img src="https://img.shields.io/badge/🧠_Dementia--Detection-View_on_GitHub-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+<br/><br/>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/kishan8105/my-portfolio">
+        <img src="https://img.shields.io/github/stars/kishan8105/my-portfolio?style=social" />&nbsp;
+        <img src="https://img.shields.io/github/forks/kishan8105/my-portfolio?style=social" />
+        <br/>
+        <b>💼 my-portfolio</b>
+        <br/>
+        <sub>Full-stack personal portfolio with dynamic content & contact form</sub>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/kishan8105/Dementia-Detection">
+        <img src="https://img.shields.io/github/stars/kishan8105/Dementia-Detection?style=social" />&nbsp;
+        <img src="https://img.shields.io/github/forks/kishan8105/Dementia-Detection?style=social" />
+        <br/>
+        <b>🧠 Dementia-Detection</b>
+        <br/>
+        <sub>Hybrid ML model using CNNs on MRI scans & genetic feature selection</sub>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
