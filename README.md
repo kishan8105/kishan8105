@@ -124,9 +124,9 @@ me.say_hi()
 <!-- PROJECT CARDS -->
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.up.railway.app/api/pin/?username=kishan8105&repo=my-portfolio&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/kishan8105/my-portfolio)
-&nbsp;
-[![Dementia Detection](https://github-readme-stats.up.railway.app/api/pin/?username=kishan8105&repo=Dementia-Detection&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/kishan8105/Dementia-Detection)
+| 💼 my-portfolio | 🧠 Dementia-Detection |
+|---|---|
+| [![Readme Card](https://github-readme-stats.up.railway.app/api/pin/?username=kishan8105&repo=my-portfolio&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/kishan8105/my-portfolio) | [![Readme Card](https://github-readme-stats.up.railway.app/api/pin/?username=kishan8105&repo=Dementia-Detection&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/kishan8105/Dementia-Detection) |
 
 </div>
 
