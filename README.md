@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20[Your%20Name]%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20matter%20•%20One%20commit%20at%20a%20time&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20[Kishan%20Raj%20Patel]%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20matter%20•%20One%20commit%20at%20a%20time&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%8D;Always+learning%2C+always+building+%E2%9C%A8)](https://git.io/typing-svg)
@@ -16,8 +16,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=a78bfa&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=flat-square&color=a78bfa)
+![Profile Views](https://komarev.com/ghpvc/?username=kishan8105&label=Profile%20Views&color=a78bfa&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/kishan8105?label=Followers&style=flat-square&color=a78bfa)
 
 </div>
 
@@ -29,7 +29,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name       = "Your Name"
+        self.name       = "Kishan Raj Patel"
         self.role       = "Full-Stack Developer & ML Enthusiast"
         self.location   = "🌍 Earth"
         self.languages  = ["Python", "JavaScript", "HTML", "ThreeJS"]
@@ -85,16 +85,16 @@ me.say_hi()
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kishan8105&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan8105&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=midnight-purple&hide_border=true&background=0d1117" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kishan8105&theme=midnight-purple&hide_border=true&background=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishan8105&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
 </div>
 
 ---
@@ -106,8 +106,8 @@ me.say_hi()
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 💼 **[Portfolio Website](#)** | Full-stack personal portfolio with dynamic content & contact form | `React` `Node.js` `MongoDB` |
-| 🏨 **[Saloon Website](#)** | Responsive booking app with real-time availability & email confirmations | `Java` `HTML` `CSS` |
+| 💼 **[Portfolio Website](https://kishanraj.me/)** | Full-stack personal portfolio with dynamic content & contact form | `React` `Node.js` `MongoDB` |
+| 🏨 **[Saloon Website](https://thehairhacker.com/)** | Responsive booking app with real-time availability & email confirmations | `Java` `HTML` `CSS` |
 | 🧠 **[Dementia Detection](#)** | Hybrid ML model using CNNs on MRI scans & genetic feature selection | `Python` `CNN` `sklearn` |
 | ⚖️ **[BMI Calculator](#)** | Interactive BMI calculator with health categories & visual feedback | `HTML` `CSS` `JavaScript` |
 
@@ -118,8 +118,8 @@ me.say_hi()
 <!-- PROJECT CARDS -->
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=portfolio&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/yourusername/portfolio)
-[![Dementia Detection](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=dementia-detection&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/yourusername/dementia-detection)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=kishan8105&repo=portfolio&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/kishan8105/portfolio)
+[![Dementia Detection](https://github-readme-stats.vercel.app/api/pin/?username=kishan8105&repo=dementia-detection&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/kishan8105/dementia-detection)
 
 </div>
 
@@ -147,7 +147,7 @@ me.say_hi()
 ## 🐍 &nbsp;My Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/kishan8105/kishan8105/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
