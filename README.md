@@ -134,8 +134,6 @@ me.say_hi()
         <br/>
         <b>💼 my-portfolio</b>
         <br/>
-        <sub>Full-stack personal portfolio with dynamic content & contact form</sub>
-        <br/><br/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
@@ -148,8 +146,6 @@ me.say_hi()
         <br/>
         <b>🧠 Dementia-Detection</b>
         <br/>
-        <sub>Hybrid ML model using CNNs on MRI scans & genetic feature selection</sub>
-        <br/><br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
         <img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
