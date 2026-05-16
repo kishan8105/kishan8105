@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20[Your%20Name]%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20matter%20•%20One%20commit%20at%20a%20time&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20[Kishan%20Raj%20Patel]%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20matter%20•%20One%20commit%20at%20a%20time&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%8D;Always+learning%2C+always+building+%E2%9C%A8)](https://git.io/typing-svg)
