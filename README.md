@@ -30,12 +30,12 @@
 class Developer:
     def __init__(self):
         self.name       = "Kishan Raj Patel"
-        self.role       = "Full-Stack Developer & ML Enthusiast"
+        self.role       = "Full-Stack Developer & SQL Developer"
         self.location   = "🌍 Earth"
         self.languages  = ["Python", "JavaScript", "HTML", "ThreeJS"]
         self.frameworks = ["React", "Django", "Tailwind CSS"]
-        self.databases  = ["PostgreSQL", "MongoDB"]
-        self.interests  = ["AI/ML", "3D Web", "Open Source", "Peacebuilding"]
+        self.databases  = ["Oracle SQL", "MongoDB"]
+        self.interests  = ["Web Development", "3D Web", "App Building", "Database Management"]
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together.")
@@ -118,8 +118,8 @@ me.say_hi()
 <!-- PROJECT CARDS -->
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=kishan8105&repo=portfolio&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/kishan8105/portfolio)
-[![Dementia Detection](https://github-readme-stats.vercel.app/api/pin/?username=kishan8105&repo=dementia-detection&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/kishan8105/dementia-detection)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=kishan8105&repo=portfolio&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/kishan8105/my-portfolio )
+[![Dementia Detection](https://github-readme-stats.vercel.app/api/pin/?username=kishan8105&repo=dementia-detection&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/kishan8105/Dementia-Detection)
 
 </div>
 
