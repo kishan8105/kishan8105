@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20[Kishan%20Raj%20Patel]%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20matter%20•%20One%20commit%20at%20a%20time&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20[Your%20Name]%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20matter%20•%20One%20commit%20at%20a%20time&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%8D;Always+learning%2C+always+building+%E2%9C%A8)](https://git.io/typing-svg)
@@ -30,12 +30,12 @@
 class Developer:
     def __init__(self):
         self.name       = "Kishan Raj Patel"
-        self.role       = "Full-Stack Developer & SQL Developer"
+        self.role       = "Full-Stack Developer & ML Enthusiast"
         self.location   = "🌍 Earth"
         self.languages  = ["Python", "JavaScript", "HTML", "ThreeJS"]
         self.frameworks = ["React", "Django", "Tailwind CSS"]
-        self.databases  = ["Oracle SQL", "MongoDB"]
-        self.interests  = ["Web Development", "3D Web", "App Building", "Database Management"]
+        self.databases  = ["PostgreSQL", "MongoDB"]
+        self.interests  = ["AI/ML", "3D Web", "Open Source", "Peacebuilding"]
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together.")
@@ -106,9 +106,9 @@ me.say_hi()
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 💼 **[Portfolio Website](https://kishanraj.me/)** | Full-stack personal portfolio with dynamic content & contact form | `React` `Node.js` `MongoDB` |
-| 🏨 **[Saloon Website](https://thehairhacker.com/)** | Responsive booking app with real-time availability & email confirmations | `Java` `HTML` `CSS` |
-| 🧠 **[Dementia Detection](#)** | Hybrid ML model using CNNs on MRI scans & genetic feature selection | `Python` `CNN` `sklearn` |
+| 💼 **[Portfolio Website](https://github.com/kishan8105/my-portfolio)** | Full-stack personal portfolio with dynamic content & contact form | `React` `Node.js` `MongoDB` |
+| 🏨 **[Saloon Website](#)** | Responsive booking app with real-time availability & email confirmations | `Java` `HTML` `CSS` |
+| 🧠 **[Dementia Detection](https://github.com/kishan8105/Dementia-Detection)** | Hybrid ML model using CNNs on MRI scans & genetic feature selection | `Python` `CNN` `sklearn` |
 | ⚖️ **[BMI Calculator](#)** | Interactive BMI calculator with health categories & visual feedback | `HTML` `CSS` `JavaScript` |
 
 </div>
@@ -118,8 +118,9 @@ me.say_hi()
 <!-- PROJECT CARDS -->
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=kishan8105&repo=portfolio&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/kishan8105/my-portfolio )
-[![Dementia Detection](https://github-readme-stats.vercel.app/api/pin/?username=kishan8105&repo=dementia-detection&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/kishan8105/Dementia-Detection)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=kishan8105&repo=my-portfolio&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/kishan8105/my-portfolio)
+&nbsp;
+[![Dementia Detection](https://github-readme-stats.vercel.app/api/pin/?username=kishan8105&repo=Dementia-Detection&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/kishan8105/Dementia-Detection)
 
 </div>
 
