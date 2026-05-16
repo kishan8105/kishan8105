@@ -133,6 +133,7 @@ me.say_hi()
         <img src="https://img.shields.io/github/forks/kishan8105/my-portfolio?style=social" />
         <br/>
         <b>💼 my-portfolio</b>
+          <br/>
         <br/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
@@ -145,6 +146,7 @@ me.say_hi()
         <img src="https://img.shields.io/github/forks/kishan8105/Dementia-Detection?style=social" />
         <br/>
         <b>🧠 Dementia-Detection</b>
+          <br/>
         <br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
