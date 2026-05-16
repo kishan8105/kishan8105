@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20[Kishan%20Raj%20Patel]%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20matter%20•%20One%20commit%20at%20a%20time&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20Kishan%20Raj%20Patel%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20matter%20%E2%80%A2%20One%20commit%20at%20a%20time&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%8D;Always+learning%2C+always+building+%E2%9C%A8)](https://git.io/typing-svg)
@@ -9,10 +9,10 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kishanraj.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-raj-patel-095209243/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishan8105@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishan8105)
 
 <br/>
 
@@ -34,7 +34,7 @@ class Developer:
         self.location   = "🌍 Earth"
         self.languages  = ["Python", "JavaScript", "HTML", "ThreeJS"]
         self.frameworks = ["React", "Django", "Tailwind CSS"]
-        self.databases  = ["PostgreSQL", "MongoDB"]
+        self.databases  = ["SQL", "MongoDB"]
         self.interests  = ["AI/ML", "3D Web", "Open Source", "Peacebuilding"]
 
     def say_hi(self):
@@ -67,7 +67,7 @@ me.say_hi()
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🧰 Tools & Platforms
@@ -148,7 +148,7 @@ me.say_hi()
 ## 🐍 &nbsp;My Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kishan8105/kishan8105/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
